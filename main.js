@@ -291,7 +291,6 @@ if(numBool){
         })
     }
 
-    function show_notif(){}
 
 
 
