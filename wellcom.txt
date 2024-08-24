@@ -1,0 +1,7 @@
+/start     --> start the bot
+add        --> add the items
+rm         --> remove the items 
+adit       --> adit the items
+check      --> check the special items
+list       --> show all items with numbers
+show-notif --> show the Error, Warning and Status 
